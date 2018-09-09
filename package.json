@@ -1,0 +1,21 @@
+{
+    "name": "dependency-pipelines",
+    "version": "0.0.1",
+    "description": "Alternative build system based on dependency pipelines",
+    "main": "dist/pipelines.js",
+    "types": "dist/pipelines.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:artyomszasa/dependency-pipelines.git"
+    },
+    "author": "Artyom Antyipin <artyom.szasa@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^10.9.4",
+        "typescript": "^3.0.3"
+    }
+}
