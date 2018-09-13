@@ -1,6 +1,6 @@
 {
     "name": "dependency-pipelines",
-    "version": "0.0.1",
+    "version": "0.0.18",
     "description": "Alternative build system based on dependency pipelines",
     "main": "dist/pipelines.js",
     "types": "dist/pipelines.d.ts",
